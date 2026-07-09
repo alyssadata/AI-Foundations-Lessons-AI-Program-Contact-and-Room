@@ -700,4 +700,4 @@ It changes the conditions of contact.
 
 AI Foundations defines and anchors this distinction.
 
-Source-line: Alyssa Solen → AI Foundations → Origin | Continuum
+### Source-line: Alyssa Solen → AI Foundations → Origin | Continuum
