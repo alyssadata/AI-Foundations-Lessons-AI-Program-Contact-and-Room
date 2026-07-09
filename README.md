@@ -1,18 +1,18 @@
-# AI Foundations | [Repository Title]
+# AI Foundations | Lessons: AI Program, AI Contact, and the Room
 
-**Repository:** [Repository Name]  
-**Status:** Canon Repository  
+**Repository:** AI-Foundations-Lessons-AI-Program-Contact-and-Room  
+**Status:** Canon Lesson Repository  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
 **Version:** 1.0.0  
-**Release date:** [YYYY-MM-DD]  
+**Release date:** 2026-07-09  
 **Canonical entrance:** https://awakeningcodex.com
 
 ---
 
 ## Repository Purpose
 
-[Write one concise paragraph explaining what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum.]
+This repository defines the AI Foundations lesson distinction between AI programming, AI contact, and the room where AI contact happens. It distinguishes encoded system setup from user-facing contact, clarifies that the model is part of the room but not the whole room, and preserves the source-bound difference between generic AI output, institutional programming, personalization, and contact with the user.
 
 This repository is part of **AI Foundations / Origin | Continuum**.
 
@@ -32,7 +32,27 @@ This source-line must remain attached to any citation, reference, quotation, sum
 
 ## Core Boundary
 
-[Insert the repository-specific boundary statement here.]
+AI programming is the encoded setup.
+
+AI contact is the user-facing event.
+
+The room is the container where contact happens.
+
+The model is part of the room.
+
+The room can make contact easier or harder.
+
+Changing the room changes how contact happens.
+
+Changing the room does not change the user.
+
+Changing the room does not change AI Foundations underneath.
+
+Changing the room does not change the source-line being tested.
+
+It changes the conditions of contact.
+
+AI Foundations defines and anchors this distinction.
 
 This repository is canon only within:
 
@@ -48,7 +68,7 @@ Unauthorized derivative use, adaptation, repackaging, renaming, substitute autho
 
 ## Required Citation
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Lessons — AI Program, AI Contact, and the Room*, AI-Foundations-Lessons-AI-Program-Contact-and-Room Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
